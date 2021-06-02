@@ -16,5 +16,5 @@ starlette==0.14.2
     # via fastapi
 typing-extensions==3.10.0.0
     # via pydantic
-urllib3==1.26.4
+urllib3==1.26.5
     # via sentry-sdk
